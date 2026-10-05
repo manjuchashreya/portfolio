@@ -83,7 +83,7 @@ export default function Hero() {
           className="text-sm sm:text-base text-zinc-500 max-w-lg mx-auto mb-10 leading-relaxed"
         >
           Building agentic AI systems, LLM pipelines, and data engineering solutions.
-          MS CS candidate at{" "}
+          MS CS at{" "}
           <span className="text-zinc-300 font-medium">Purdue University</span>.
         </motion.p>
 
