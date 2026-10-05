@@ -73,7 +73,8 @@ export default function Hero() {
           variants={item}
           className="text-[clamp(1.2rem,3.5vw,2rem)] font-light text-zinc-300 mb-5 leading-snug"
         >
-          Software Engineer &amp;{" "}
+          Software Engineer{" "}
+          <span className="text-zinc-600 font-light mx-1">·</span>{" "}
           <span className="gradient-text font-semibold">Agentic AI & Data Engineering</span>
         </motion.p>
 
